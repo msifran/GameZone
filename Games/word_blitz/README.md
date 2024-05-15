@@ -1,4 +1,4 @@
-# Wirtd Blitz
+
 <h1>WORD BLITZ</h1>
 <h2>Tech Stack</h2>
 
